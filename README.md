@@ -1,1 +1,1 @@
-# 2017-Teradata-University-Network-Challenge
+Examined a real-time data set from a non-profit organization, Rise Against Hunger which included inspecting, cleansing, transforming, and modeling the data, analyzing and visualizing it using R programming and Tableau to provide insights about increasing donations, maintaining the current donors and improving productivity of the employees.
